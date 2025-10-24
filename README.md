@@ -1,4 +1,5 @@
 📘 Employee Directory with Search
+
 Overview
 
 The Employee Directory is a simple web application that allows users to view, search, and filter a list of employees. It’s designed to make it easy for HR teams and managers to find employee details quickly.
