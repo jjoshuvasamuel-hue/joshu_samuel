@@ -13,14 +13,31 @@ Click on an employee to view detailed information
 
 Responsive design for desktop and mobile
 
-(Optional) Integration with a live API or database
-
 🛠️ Technologies Used
 
-Frontend: React.js / Vue.js / HTML, CSS, JavaScript
+Frontend: 
 
-Backend: Node.js / Express (optional)
+Backend:
 
-Data Source: Local JSON file or REST API
+Data Source:
 
-Styling: Tailwind CSS / Bootstrap
+Styling: 
+
+⚠️ Challenges Faced
+1. Managing and Displaying Data
+
+Challenge: Handling a large number of employee records efficiently and ensuring fast search/filter operations.
+
+Solution: Implemented client-side filtering and pagination; considered server-side search for scalability.
+
+2. Implementing Search Functionality
+
+Challenge: Making the search feature flexible (e.g., matching partial names, case-insensitive).
+
+Solution: Used JavaScript’s toLowerCase() and includes() methods to perform more user-friendly searches.
+
+3. Data Integration
+
+Challenge: Connecting the frontend to an API or external data source (e.g., employee database or JSON file).
+
+Solution: Used fetch() or Axios to retrieve data asynchronously and handled loading/error states gracefully.
