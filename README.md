@@ -16,13 +16,7 @@ Responsive design for desktop and mobile
 
 🛠️ Technologies Used
 
-Frontend: 
-
-Backend:
-
-Data Source:
-
-Styling: 
+Frontend: html,css,js
 
 ⚠️ Challenges Faced
 1. Managing and Displaying Data
